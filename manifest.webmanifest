@@ -1,0 +1,39 @@
+{
+  "name": "Buckets",
+  "short_name": "Buckets",
+  "description": "Track your practices, your shots, and your games.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0d2b5c",
+  "theme_color": "#0d2b5c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "monochrome.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "monochrome"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
